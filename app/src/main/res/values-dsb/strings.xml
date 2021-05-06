@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Jiu Valley Sounds</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="swap_button">Swap View</string>
+    <string name="main_label">Jiu Valley Sounds</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="waypointTitle">Submit Waypoint for Consideration</string>
+    <string name="menuButton">Menu</string>
+    <string name="locationButtonText">Submit New Location</string>
+    <string name="adminLoginButton">Admin Login</string>
+    <string name="soundSubmitButton">Submit Sound</string>
+    <string name="backButton">Back</string>
+    <string name="waypointName">Location Name</string>
+    <string name="submitterName">Your Name</string>
+    <string name="nameWarning">If you wish to be associated with this location (optional)</string>
+    <string name="locationDescription">Brief description of the location</string>
+    <string name="submitButton">SUBMIT</string>
+    <string name="getLocationButton">Get Current GPS Coordinates</string>
+    <string name="coordinates"></string>
+    <string name="selectSound">Select a Sound File</string>
+    <string name="soundDescription">Why is this sound meaningful to you?</string>
+    <string name="locationWarning2">In order to properly categorize this sound, we need the location. We encourage you to stand at the approximate location of the sound and get the current GPS coordinates</string>
+    <string name="userName">Username</string>
+    <string name="password">Password</string>
+    <string name="admin">Admin Login</string>
+    <string name="helpTitle">Help</string>
+    <string name="facebook">www.facebook.com</string>
+    <string name="faq">FAQ</string>
+    <string name="markerSound">Submit a Sound for this location</string>
+    <string name="locationWarning">In order to most accurately display this location, we encourage you to stand at the location and get the current GPS coordinates</string>
+
+</resources>
