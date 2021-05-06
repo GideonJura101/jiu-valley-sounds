@@ -30,7 +30,6 @@ import java.io.UnsupportedEncodingException;
 import cz.msebera.android.httpclient.Header;
 import cz.msebera.android.httpclient.entity.StringEntity;
 
-// ACCESS TOKEN : Ehicfi0Yu57XjLZLEd9C6rO5DB0IEONjqJR1FubGxE5N346DXgcd3A4UHuwS
 public class SoundSubmission extends Activity implements LocationListener{
     Button backButton2;
     private static final int PICK_SOUND_REQUEST = 9544;
