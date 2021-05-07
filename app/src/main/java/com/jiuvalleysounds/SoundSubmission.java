@@ -42,7 +42,7 @@ public class SoundSubmission extends Activity implements LocationListener{
     Double latitude;
     Double longitude;
     Location currLocation;
-    String ACCESS_TOKEN = "uXYu0HAaakk0Krt6JYsXKBCbPHYMMoFpw4EeEVztAspjE3V5uQENCFtU6llz";
+    String ACCESS_TOKEN = "";
     String bucketLink;
     String uriPath;
     Integer id;
