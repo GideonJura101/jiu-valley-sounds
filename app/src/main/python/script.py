@@ -1,6 +1,6 @@
 import requests
 import json
-access_token = "uXYu0HAaakk0Krt6JYsXKBCbPHYMMoFpw4EeEVztAspjE3V5uQENCFtU6llz"
+access_token = ""
 #the function to send sounds
 def send(link, filepath, filename, title, description, name, id):
     #set the params as including the access token
