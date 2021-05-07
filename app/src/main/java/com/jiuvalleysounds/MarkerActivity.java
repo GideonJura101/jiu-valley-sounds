@@ -34,7 +34,7 @@ public class MarkerActivity extends AppCompatActivity {
     private static final int PICK_SOUND_REQUEST = 9544;
     Double latitude;
     Double longitude;
-    String ACCESS_TOKEN = "uXYu0HAaakk0Krt6JYsXKBCbPHYMMoFpw4EeEVztAspjE3V5uQENCFtU6llz";
+    String ACCESS_TOKEN = "";
     String bucketLink;
     Integer id;
     EditText userName;
